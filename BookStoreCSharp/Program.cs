@@ -1,6 +1,6 @@
 ﻿//CONSEGNA: Inserire in maniera “hardcoded” tutte le informazioni che troviamo su Amazon di un libro, per poi stamparne una piccola sintesi
 
-//Per prima cosa, viengono aggiunte le informazioni del libro tramite dichiarazione di variabili
+//Per prima cosa, vengono aggiunte le informazioni del libro tramite dichiarazione di variabili
 
 string title = "Alan Turing. Storia di un enigma";
 
@@ -26,7 +26,7 @@ string KindleAvaible = "Sì";
 
 string FlexCoverAvaible = "Sì";
 
-//Ora che le informazioni sono scritte sottoforma di variabuli, è possibile procedere con la stampa di essi
+//Ora che le informazioni sono scritte sotto forma di variabuli, è possibile procedere con la stampa di essi
 
 Console.WriteLine("<<<----------IL LIBRO DI OGGI È: '" + title + "'---------->>>");
 Console.WriteLine();
